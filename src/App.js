@@ -10,7 +10,6 @@ function App() {
         <Navbar/>
         <Header/>
       </div>  
-      <Article/>
       <Brand/>
       <WhatGPT3/>
       <Features/>
