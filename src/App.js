@@ -1,7 +1,7 @@
 import './App.css';
 import React from "react"
 import { Blog, Features, Footer, Header, Possibility, WhatGPT3 } from './containers';
-import { Article, Brand, Cta, Navbar } from './components';
+import {  Brand, Cta, Navbar } from './components';
 
 function App() {
   return (
